@@ -1,4 +1,4 @@
-import mackMockup from "../assets/Macbook.png";
+import mackMockup from "../assets/macbook.png";
 import iphoneMp from "../assets/iphonemp.png";
 import logoGris from "../assets/logotitulo.png";
 
